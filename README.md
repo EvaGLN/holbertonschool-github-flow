@@ -169,6 +169,10 @@ At the end of this task, you must have:
 * `upstream` → base repository
 * Zero changes in the working tree (clean `git status`).
 
+**Repo:**
+
+* GitHub repository: `holbertonschool-github-flow`
+
 ---
 
 ### 1. Creating Workspace Branches <a name='subparagraph1'></a>
@@ -227,6 +231,10 @@ By the end of this activity, the repository on GitHub must have:
 * A remote branch `origin/feature/history-update` created from `main`.
 
 Your local environment should also have the corresponding local branches, but the evaluation will be based on the state of the repository on GitHub.
+
+**Repo:**
+
+* GitHub repository: `holbertonschool-github-flow`
 
 ---
 
@@ -313,6 +321,10 @@ Each file must include the required final paragraph, with the exact text provide
 
 These changes will later be proposed as pull requests.
 
+**Repo:**
+
+* GitHub repository: `holbertonschool-github-flow`
+
 ---
 
 ### 3. Creating Pull Requests and Reviews <a name='subparagraph3'></a>
@@ -387,6 +399,10 @@ At least one comment that references the history change and explains its value.
 
 None of the pull requests should be merged yet. They will be merged in a later activity.
 
+**Repo:**
+
+* GitHub repository: `holbertonschool-github-flow`
+
 ---
 
 ### 4. Merging Changes and Tagging a Release <a name='subparagraph4'></a>
@@ -457,6 +473,10 @@ Your GitHub repository must show:
 * A tag named `v1.0.0` pointing at the latest commit on `main`.
 * A release titled **“Initial collaborative update”** using that tag.
 * A release description with two or more full sentences describing the introduction and history updates.
+
+**Repo:**
+
+* GitHub repository: `holbertonschool-github-flow`
 
 ---
 
@@ -625,6 +645,10 @@ Collaboration requires adaptability, trust, and continuous alignment among team 
 
 The conflict must have been resolved **locally**, not through GitHub’s UI.
 
+**Repo:**
+
+* GitHub repository: `holbertonschool-github-flow`
+
 ---
 
 ### 6. Creating a Final Release and Updating the Changelog <a name='subparagraph6'></a>
@@ -773,6 +797,10 @@ Your GitHub repository must contain:
 * A release titled `Collaborative update <your version number>` using that tag, with a description of at least two meaningful sentences.
 
 > The correctness of the chosen version will be evaluated according to Semantic Versioning rules and the described project changes.
+
+**Repo:**
+
+* GitHub repository: `holbertonschool-github-flow`
 
 ---
 
